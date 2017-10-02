@@ -2,7 +2,8 @@
 
 int main(void){
   printf("hello world!");
-  printf("git")
+  printf("git");
+
 
   returen 0;
 }
