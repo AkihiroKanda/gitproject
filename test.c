@@ -5,5 +5,7 @@ int main(void){
   printf("git");
 
   printf("github beginner");
+  printf("tomoki");
+  printf("tomoki");
   returen 0;
 }
