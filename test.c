@@ -6,5 +6,6 @@ int main(void){
 
   printf("github beginner");
   printf("tomoki");
+  printf("tomoki");
   returen 0;
 }
